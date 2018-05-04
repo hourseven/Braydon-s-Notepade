@@ -1,0 +1,20 @@
+C:\Users\sant\AppData\Local\Temporary Projects\Notpad(SP)\bin\Debug\Notpad(SP).exe.config
+C:\Users\sant\AppData\Local\Temporary Projects\Notpad(SP)\bin\Debug\Notpad(SP).exe
+C:\Users\sant\AppData\Local\Temporary Projects\Notpad(SP)\bin\Debug\Notpad(SP).pdb
+C:\Users\sant\AppData\Local\Temporary Projects\Notpad(SP)\bin\Debug\Notpad(SP).xml
+C:\Users\sant\AppData\Local\Temporary Projects\Notpad(SP)\obj\Debug\Notpad_SP_.Form1.resources
+C:\Users\sant\AppData\Local\Temporary Projects\Notpad(SP)\obj\Debug\Notpad_SP_.Resources.resources
+C:\Users\sant\AppData\Local\Temporary Projects\Notpad(SP)\obj\Debug\Notpad(SP).vbproj.GenerateResource.Cache
+C:\Users\sant\AppData\Local\Temporary Projects\Notpad(SP)\obj\Debug\Notpad(SP).exe
+C:\Users\sant\AppData\Local\Temporary Projects\Notpad(SP)\obj\Debug\Notpad(SP).xml
+C:\Users\sant\AppData\Local\Temporary Projects\Notpad(SP)\obj\Debug\Notpad(SP).pdb
+C:\Users\sant\Documents\Visual Studio 2012\Projects\Notpad(SP)\Notpad(SP)\bin\Debug\Notpad(SP).exe.config
+C:\Users\sant\Documents\Visual Studio 2012\Projects\Notpad(SP)\Notpad(SP)\obj\Debug\Notpad(SP).exe
+C:\Users\sant\Documents\Visual Studio 2012\Projects\Notpad(SP)\Notpad(SP)\obj\Debug\Notpad(SP).xml
+C:\Users\sant\Documents\Visual Studio 2012\Projects\Notpad(SP)\Notpad(SP)\obj\Debug\Notpad(SP).pdb
+C:\Users\sant\Documents\Visual Studio 2012\Projects\Notpad(SP)\Notpad(SP)\bin\Debug\Notpad(SP).exe
+C:\Users\sant\Documents\Visual Studio 2012\Projects\Notpad(SP)\Notpad(SP)\bin\Debug\Notpad(SP).pdb
+C:\Users\sant\Documents\Visual Studio 2012\Projects\Notpad(SP)\Notpad(SP)\bin\Debug\Notpad(SP).xml
+C:\Users\sant\Documents\Visual Studio 2012\Projects\Notpad(SP)\Notpad(SP)\obj\Debug\Notpad_SP_.Form1.resources
+C:\Users\sant\Documents\Visual Studio 2012\Projects\Notpad(SP)\Notpad(SP)\obj\Debug\Notpad_SP_.Resources.resources
+C:\Users\sant\Documents\Visual Studio 2012\Projects\Notpad(SP)\Notpad(SP)\obj\Debug\Notpad(SP).vbproj.GenerateResource.Cache
